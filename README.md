@@ -67,7 +67,7 @@ I'm continuously updating this repository as I complete new assignments and lear
 
 ## 👨‍💻 About Me
 
-I'm a student at **Saylani Mass IT Training (SMIT)**, currently learning Advanced JavaScript and working toward becoming a better web developer.
+I'm a student at **Saylani Mass IT Training (SMIT)**, currently learning Advanced JavaScript and working toward becoming a better Web developer.
 
 I believe in learning by doing, writing code consistently, and improving with every project.
 
